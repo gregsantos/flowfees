@@ -28,7 +28,8 @@ const Home = () => {
       cadence: await prepareGetFlowFeeParametersScript(),
     })
 
-    setName(feeParams ?? null)
+    console.log(feeParams)
+    setFeeParams(feeParams ?? null)
   }
 
   useEffect(() => {

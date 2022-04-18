@@ -139,7 +139,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@onflow/fcl@^1.0.0-alpha.0":
+"@onflow/fcl@^1.0.0-alpha.1":
   version "1.0.0-alpha.1"
   resolved "https://registry.yarnpkg.com/@onflow/fcl/-/fcl-1.0.0-alpha.1.tgz#7a051eefa28ed0414e29b190c6bfc39c36b93441"
   integrity sha512-zSVSmrAGYi5vsJHjMA/MK2nMNYLcZ/teoxCQtDEAhQQaBzKxMjTxQBlF2V0b1g8Na5Cqb27YAlM3+QXyxwpmCA==
